@@ -1,0 +1,11 @@
+img{
+    height: 300px;
+}
+.container{
+    display:flex;
+    justify-content: space-between;
+    width: 600px;
+    position: relative;
+    top: center;
+    margin-top: 100px;
+}
